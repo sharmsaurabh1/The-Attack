@@ -4,9 +4,9 @@
 This is our final project for web-game development course COMP-397.
 This project is basic game developing using typescript and convert it into javascript in visual studio code. 
 This project is using keyboard to move the space ship.
-Our game is a top down shooter.
-
 ............................................................................................................
+
+Our game is a top down shooter.
 In the game an alien invasion is taking place and the player has to stop them with their jet
 After lasting a certain amount of time on a level the player would proceed to the next level.
 
